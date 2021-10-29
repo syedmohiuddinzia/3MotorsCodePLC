@@ -8,20 +8,29 @@
 ***SYED MOHIUDDIN ZIA***
 ***0092 307 2099300***
 
-# Requirements
+# Requirement
 **1. WinPro Ladder Software**  
 ```
 https://plc4me.com/download-win-proladder-v3-27-fatek-plc-software-real-100/
 ```
-# Requirements
-**1. WinPro Ladder Software**  
+# Pre Requisite
+**1. Basic Ladder Logic Knowlege**  
 ```
-https://plc4me.com/download-win-proladder-v3-27-fatek-plc-software-real-100/
+1. Normally Open Input
+2. Normally Close Input
+3. Normally Open Output
+4. Normally Close Output
+5. Memory, Registers 
+6. Counters, Timers
+7. Etc.
 ```
 
 **Reference:**
 
-[RS485 Communication](https://en.wikipedia.org/wiki/RS-485)
+[WinProFaktek Instruction Manual](https://drive.google.com/drive/folders/1fcRhLmjpI39hsA_bJIU0bxqD0Tx-heUF?usp=sharing)
 
-# BreadBoard Diagram
-![BreadBoard Diagram](https://github.com/syedmohiuddinzia/ESP32RS485Com/blob/main/ESP32RS485Com.png)
+# Mnemonic Program
+![Mnemonic1](https://github.com/syedmohiuddinzia/3MotorsCodePLC/blob/main/Mnemonic1.jpg)
+![Mnemonic2](https://github.com/syedmohiuddinzia/3MotorsCodePLC/blob/main/Mnemonic2.jpg)
+
+
