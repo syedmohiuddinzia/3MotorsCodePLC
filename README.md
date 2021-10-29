@@ -25,13 +25,13 @@ https://plc4me.com/download-win-proladder-v3-27-fatek-plc-software-real-100/
 7. Etc.
 ```
 
-**Reference:**
+# Reference
 
 [WinProFaktek Instruction Manual](https://drive.google.com/drive/folders/1fcRhLmjpI39hsA_bJIU0bxqD0Tx-heUF?usp=sharing)
 
-# Ladder Logic Diagram
+# > Ladder Logic Diagram
 ![Mnemonic1](https://github.com/syedmohiuddinzia/3MotorsCodePLC/blob/main/LadderLogic.jpg)
 
-# Mnemonic Program
+# ? Mnemonic Program
 ![Mnemonic1](https://github.com/syedmohiuddinzia/3MotorsCodePLC/blob/main/Mnemonic1.jpg)
 ![Mnemonic2](https://github.com/syedmohiuddinzia/3MotorsCodePLC/blob/main/Mnemonic2.jpg)
