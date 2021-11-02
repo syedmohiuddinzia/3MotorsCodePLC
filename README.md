@@ -9,6 +9,13 @@
 ***0092 307 2099300***
 
 # Requirement
+```
+- Each pump has pressure switch as a feedback.
+- In Auto Mode, upon starting the process, if Pressure doesn't develop with in given time in Pump1 then it would stop Pump1 and transfer the command to Pump2, and same case for Pump 3.
+- In Manual Mode, Each Pump can be started individually but not at the same time which means interlocking should be done and if pressure fails to develop there should be an indication for example pump1 is at Fault.
+- And last thing if all three pumps fails to start it would generate an Alarm that will let the facility know about the status of Pumps.
+```
+# Requirement
 **1. WinPro Ladder Software**  
 ```
 https://plc4me.com/download-win-proladder-v3-27-fatek-plc-software-real-100/
