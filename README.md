@@ -8,7 +8,7 @@
 ***SYED MOHIUDDIN ZIA***
 ***0092 307 2099300***
 
-# Requirement
+# Question
 ```
 - Each pump has pressure switch as a feedback.
 - In Auto Mode, upon starting the process, if Pressure doesn't develop with in given time in Pump1 then it would stop Pump1 and transfer the command to Pump2, and same case for Pump 3.
