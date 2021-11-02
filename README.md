@@ -4,7 +4,7 @@
 
 ***______________________________ PAKISTAN ZINDABAD 🇵🇰***
 
-***Arduino CODE BY:***
+***PLC CODE BY:***
 ***SYED MOHIUDDIN ZIA***
 ***0092 307 2099300***
 
